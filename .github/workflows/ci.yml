@@ -29,3 +29,7 @@ jobs:
       - name: Run training script
         run: |
           python train.py
+          
+      - name: Check output
+        run: |
+          ls -l  # List files to check if model outputs exist
