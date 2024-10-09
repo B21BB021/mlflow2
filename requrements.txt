@@ -1,0 +1,6 @@
+pandas
+requests
+mlflow
+scikit-learn
+numpy
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onkar_singh/mlflow2/mlruns/402117479253169457/396681a0503149ae987c8db5b4182f36/artifacts
+end_time: 1728469296502
+entry_point_name: ''
+experiment_id: '402117479253169457'
+lifecycle_stage: active
+run_id: 396681a0503149ae987c8db5b4182f36
+run_name: Linear_Regression
+run_uuid: 396681a0503149ae987c8db5b4182f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728469292920
+status: 3
+tags: []
+user_id: onkar_singh
