@@ -3,4 +3,4 @@ requests
 mlflow
 scikit-learn
 numpy
-
+seaborn
